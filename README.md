@@ -33,7 +33,7 @@ The code allows the "coop door" to run connected to your wifi, or as stand alone
 
 ![DynDNS](http://i.imgur.com/iMRAzJt.jpg)
 
-The esp8266 controller commands a servo modified for continuous rotation to lift and lower a door (with two relays to reverse the rotation direction). The door mechanism is using pulleys (F/3), that way the servo doesn't have to work too hard.
+The esp8266 controller commands ~~a servo modified for continuous rotation to lift and lower a door (with two relays to reverse the rotation direction). The door mechanism is using pulleys (F/3), that way the servo doesn't have to work too hard.~~ a high torque geared motor to lift and lower the door. Please watch the video bellow for more details.
 
 Click on the image below to see a video of the door operating:
 
